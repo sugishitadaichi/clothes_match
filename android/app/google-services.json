@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "160337368740",
+    "project_id": "clothes-match",
+    "storage_bucket": "clothes-match.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160337368740:android:c3e4f56ac7d4c56ed8b831",
+        "android_client_info": {
+          "package_name": "com.example.clothes_match"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMO1aF2vKU418_n5skSdKyLN2ruCTrx9Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
